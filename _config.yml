@@ -1,5 +1,5 @@
 theme: jekyll-theme-cayman
 name: Tils
 markdown: redcarpet
-pygments: true
+rouge: true
 baseurl: /tils
