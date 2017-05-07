@@ -2,4 +2,3 @@ theme: jekyll-theme-cayman
 name: Tils
 markdown: redcarpet
 rouge: true
-baseurl: /tils
